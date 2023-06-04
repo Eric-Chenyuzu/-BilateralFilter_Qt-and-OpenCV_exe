@@ -1,0 +1,2 @@
+# BilateralFilter_Qt-and-OpenCV_exe
+该项目使用OpenCV来对图像进行自适应双边滤波处理，并且使用Qt进行可视化界面开发。此仓库存放了exe可执行程序。
